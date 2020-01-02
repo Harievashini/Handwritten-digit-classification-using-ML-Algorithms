@@ -21,8 +21,8 @@ The number of hidden units are varied in this experiment. For each value of n=10
 
 Experiment 2
 
-The value of momentum is varied in this experiment. Number of hidden units is fixed to 100 and momentum values are changed to 0.0,0.5,0.9,1.0. We train the network on the 60000 training examples using these momentum values. After each epoch, accuracy of both the test and train data are calculated without changing the weights and are plotted at the end. The network is trained for 50 epochs. Confusion matrix is done for the test data.
+The value of momentum is varied in this experiment. Number of hidden units is fixed to 100 and momentum values are changed to 0.0,0.5,0.9,1.0. We train the network on the 60000 training examples using these momentum values. After each epoch, accuracy of both the test and train data are calculated without changing the weights and are plotted at the end. The network is trained for 50 epochs. 
 
 Experiment 3
 
-The size of the training examples is varied in this experiment. Number of hidden units is fixed to 100 and momentum is fixed to 0.9. We train the network on one quarter and one half of the training examples. After each epoch, accuracy of both the test and train data are calculated without changing the weights and are plotted at the end. The network is trained for 50 epochs. Confusion matrix is done for the test data.
+The size of the training examples is varied in this experiment. Number of hidden units is fixed to 100 and momentum is fixed to 0.9. We train the network on one quarter and one half of the training examples. After each epoch, accuracy of both the test and train data are calculated without changing the weights and are plotted at the end. The network is trained for 50 epochs. 
