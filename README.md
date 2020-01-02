@@ -1,4 +1,6 @@
 # Handwritten-digit-classification-using-ML-Algorithms
+
+Use MNIST Data Set
 1.PERCEPTRONS
 
 Perceptron is an algorithm for supervised learning of binary classifiers. A perceptron takes several binary inputs and produces a single binary output. Here we learn to classify the handwritten digits in the MNIST dataset. The MNIST data set is divided into training set consisting of 60,000 examples and testing set consisting of 10,000 examples. All digit images have been size-normalized and centered in a fixed size image of 28 x 28 pixels. In the dataset each pixel of the image is represented by a value between 0 and 255, where 0 is black, 255 is white and anything in between is a different shade of grey. We train 10 perceptrons, whose targets correspond to the 10 digits from 0 to 9. Each perceptron will have 785 inputs including the bias input +1and 1 output.
